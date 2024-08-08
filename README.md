@@ -53,7 +53,7 @@
 - Transitioned core functionalities from ASP.NET to ReactJS, improving user satisfaction by 30% and product speed by 40%
 - Conducted peer code reviews for optimal, defect-free projects
 
-**Absolute Factor | Software Development Intern** *(June 2020 – August 2021)*
+**Absolute Factor | Software Development Intern** *(June 2020 – August 2020)*
 - Developed a client dashboard using React.js with SEO strategies and integrated Tableau reports
 - Managed user data with Google Firebase across web and mobile apps
 - Executed unit tests with Jest and Enzyme, and end-to-end tests with Cypress, increasing test coverage by 27%
