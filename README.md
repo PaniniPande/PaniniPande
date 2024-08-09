@@ -49,14 +49,16 @@
 ## 👨‍💻 Experience
 
 **Techtra Digital | Software Developer** *(May 2021 – July 2022)*
-- Enhanced a React-based internal tool, increasing client proposal success by 20%
-- Transitioned core functionalities from ASP.NET to ReactJS, improving user satisfaction by 30% and product speed by 40%
-- Conducted peer code reviews for optimal, defect-free projects
+- Enhanced a React based tool, increasing client proposal success by 25% and improving code quality and efficiency
+- Transitioned core functionalities from ASP.NET to ReactJS, adding features that boosted user satisfaction by 30%
+- Conducted peer code reviews, ensuring defect-free and efficient projects, which minimized post-deployment issues
+- Collaborated with stakeholders to align product features with user needs, ensuring optimal customer satisfaction
 
 **Absolute Factor | Software Development Intern** *(June 2020 – August 2020)*
-- Developed a client dashboard using React.js with SEO strategies and integrated Tableau reports
-- Managed user data with Google Firebase across web and mobile apps
-- Executed unit tests with Jest and Enzyme, and end-to-end tests with Cypress, increasing test coverage by 27%
+- Developed high-performance React apps, leading to a 15% increase in user engagement and 10% decrease in costs
+- Utilized database management systems to handle large volumes of data efficiently, ensuring quick access and reliability
+- Optimized API performance, reducing response time by 20%, and ensuring faster data retrieval and enhanced efficiency
+- Executed unit tests with Jest, conducting integration tests with Cypress, increasing coverage and reducing bugs by 30%
 
 **AMRIT Welfare Society | Web Development Intern** *(June 2019 – August 2019)*
 - Developed web application features using HTML, CSS, JavaScript, and Node.js
