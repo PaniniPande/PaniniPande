@@ -41,7 +41,6 @@
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-4D4D4D?style=flat-square&logo=apachedruid&logoColor=white)
-![SOAP](https://img.shields.io/badge/-SOAP-FF5A60?style=flat-square&logo=soap&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-00427E?style=flat-square&logo=jenkinsx&logoColor=white)
 
 ---
